@@ -2,5 +2,6 @@
 Programming exercises with a lean test-driven approach
 
 # resources
-https://grugbrain.dev/
-https://docs.godotengine.org/en/stable/community/contributing/best_practices_for_engine_contributors.html
+* https://grugbrain.dev/
+* https://docs.godotengine.org/en/stable/community/contributing/best_practices_for_engine_contributors.html
+* https://www.youtube.com/watch?v=QM1iUe6IofM
